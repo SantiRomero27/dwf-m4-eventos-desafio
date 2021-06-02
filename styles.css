@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+
+.zona-movimiento {
+    width: 100%;
+    overflow: hidden;
+    padding: 3px;
+    border: solid;
+}
+
+.cuadrado {
+    width: 100px;
+    height: 100px;
+    position: relative;
+
+    background-color: red;
+}
